@@ -29,7 +29,6 @@ def monopoly_with_third_tier
 	      "a" => "Adam", "b" => "Bob", "c" => "Colin", "d" => "Dan"}
 	    }
 	  }
-	}
 end
 
 def monopoly_with_fourth_tier
