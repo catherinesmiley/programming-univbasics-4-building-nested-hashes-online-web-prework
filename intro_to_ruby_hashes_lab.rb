@@ -28,7 +28,7 @@ def monopoly_with_third_tier
 	    :names => {
 	      "a" => "Adam", "b" => "Bob", "c" => "Colin", "d" => "Dan"}
 	    }
-	  }
+  }
 end
 
 def monopoly_with_fourth_tier
